@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.20"
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.20",
+    "postman-request": "^2.88.1-postman.31",
+    "request-promise-core": "^1.1.4"
   }
 }
