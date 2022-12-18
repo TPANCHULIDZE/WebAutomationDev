@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "writeProducts": "node src/index.js COMMAND=writeProducts",
+    "writeAmount": "node src/index.js COMMAND=amount"
   },
   "author": "",
   "license": "ISC",
